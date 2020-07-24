@@ -11,18 +11,19 @@
 <code><img height="60" src="https://www.pngkit.com/png/detail/534-5342172_c-language-course-c-logo.png" title="C++"></code>
 <code><img height="60" src="https://media.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif" title="JAVA"></code>
 <code><img height="60" src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" title="HTML"></code>
+<code><img height="70" src="https://media.giphy.com/media/hT0YvlAfRRT4fSqaKy/giphy.gif" title="Kubernets, couldn't find the exact GIF yall"></code>
 <code><img height="60" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" title="VisualStudio"></code>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-   <img align="right" alt="GIF" src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif">
+   <img align="right" alt="GIF" img height="250" src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif">
 
-- <code><img height="30" src="https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif" title="ComputerVision"></code> 𝙸'𝚖 𝚊 Deep Learning Enthusiast
+- <code><img height="30" src="https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif" title="ComputerVision"></code> A Deep Learning Enthusiast
 
-- <code><img height="30" src="https://media.giphy.com/media/8dYmJ6Buo3lYY/giphy.gif"></code> I’m currently learning Git and Model Deployment
+- <code><img height="30" src="https://media.giphy.com/media/8dYmJ6Buo3lYY/giphy.gif"></code> Currently learning Git and Model Deployment
 
-- <code><img height="30" src="https://media.giphy.com/media/3o7btZZhRA6JMg1sKQ/giphy.gif"></code> 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bachelor's in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (2021 batch)
+- <code><img height="30" src="https://media.giphy.com/media/3o7btZZhRA6JMg1sKQ/giphy.gif"></code> S𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bachelor's in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Batch:2021)
 
-- <code><img height="40" src="https://media.giphy.com/media/5Ye7VNMK8UFM29cHCt/giphy.gif"></code> I’m looking to collaborate on novel Vision/Deep Learning ideas
+- <code><img height="40" src="https://media.giphy.com/media/5Ye7VNMK8UFM29cHCt/giphy.gif"></code> I’m looking to collaborate on novel Vision/ Deep Learning ideas
 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
