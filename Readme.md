@@ -1,9 +1,9 @@
-## Hey 👋🏽, This is Sowmya!
+## Hello 👋🏽, This is Sowmya Iyer!
 
 [<img src="https://media.giphy.com/media/wK2MKS75R8sVrSuA5k/giphy.gif" height="50em" align="center" alt="Follow me on LinkedIn" title="Connect with me on LinkedIn"/>](https://linkedin.com/in/sowmya-j-iyer)
 [<img src="https://media.giphy.com/media/l41YmiCZ8HXvVl5M4/giphy.gif" height="60em" align="center" alt="Follow me on Instagram" title="Connect with me on Instagram"/>](https://www.instagram.com/sowmya._.iyer)
 
-**We can talk about**
+**I speak in**
 
 <code><img height="60" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" title="Python"></code>
 <code><img height="60" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" title="TensorFlow"></code>
@@ -14,8 +14,8 @@
 <code><img height="70" src="https://media.giphy.com/media/hT0YvlAfRRT4fSqaKy/giphy.gif" title="Kubernets, couldn't find the exact GIF yall"></code>
 <code><img height="60" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" title="VisualStudio"></code>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-   <img align="right" alt="GIF" img height="250" src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif">
+## :book: WHO AM I?
+  <img align="right" alt="GIF" img height="250" src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif">
 
 - <code><img height="30" src="https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif" title="ComputerVision"></code> A Deep Learning Enthusiast
 
@@ -23,8 +23,11 @@
 
 - <code><img height="30" src="https://media.giphy.com/media/3o7btZZhRA6JMg1sKQ/giphy.gif"></code> S𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bachelor's in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Batch:2021)
 
+## :book: I'd Love to:
 - <code><img height="40" src="https://media.giphy.com/media/5Ye7VNMK8UFM29cHCt/giphy.gif"></code> I’m looking to collaborate on novel Vision/ Deep Learning ideas
-
+- Know where I can improve and learn all the cool new stuffs in AI
+- Have you reach me at sowmya.iyer2020@gmail.com
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🎯 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 gesture detection and scene prediction using CNN 
+- 📝 Building my [Resume](https://drive.google.com/file/d/1mNqjfbWIXimNfBTIx6TBtibQQoD02i2W/view?usp=sharing)
