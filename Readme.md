@@ -15,7 +15,7 @@
 <code><img height="60" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" title="VisualStudio"></code>
 
 ## :book: WHO AM I?
-  <img align="right" alt="GIF" img height="250" src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif">
+  <img align="right" alt="GIF" img height="300" src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif">
 
 - <code><img height="30" src="https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif" title="ComputerVision"></code> A Deep Learning Enthusiast
 
@@ -28,6 +28,9 @@
 - Know where I can improve and learn all the cool new stuffs in AI
 - Have you reach me at sowmya.iyer2020@gmail.com
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+## ⬆ 𝚆𝚑𝚊𝚝 am I 𝚞𝚙 𝚝𝚘?
+- I don't know either...
 - 🎯 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 gesture detection and scene prediction using CNN 
 - 📝 Building my [Resume](https://drive.google.com/file/d/1mNqjfbWIXimNfBTIx6TBtibQQoD02i2W/view?usp=sharing)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sowmya-Iyer.visitor-badge)
