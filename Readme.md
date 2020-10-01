@@ -28,7 +28,6 @@ Connect with me:
 ## :book: I'd Love to:
 -  I’m looking to collaborate on novel Vision/ Deep Learning ideas
 - Know where I can improve and learn all the cool new stuffs in AI
-- Have you reach me at sowmya.iyer2020@gmail.com
 
 ## ⬆ 𝚆𝚑𝚊𝚝 am I 𝚞𝚙 𝚝𝚘?
 - I don't know either...
