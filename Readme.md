@@ -19,14 +19,14 @@ Connect with me:
   <img align="right" alt="GIF" img height="300" src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif">
 
 
-- <code><img height="30" src="https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif" title="ComputerVision"></code> A Deep Learning Enthusiast
+- A Deep Learning Enthusiast
 
-- <code><img height="30" src="https://media.giphy.com/media/8dYmJ6Buo3lYY/giphy.gif"></code> Currently learning Git and Model Deployment
+- Currently learning Git and Model Deployment
 
-- <code><img height="30" src="https://media.giphy.com/media/3o7btZZhRA6JMg1sKQ/giphy.gif"></code> S𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bachelor's in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Batch:2021)
+- S𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bachelor's in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Batch:2021)
 
 ## :book: I'd Love to:
-- <code><img height="40" src="https://media.giphy.com/media/5Ye7VNMK8UFM29cHCt/giphy.gif"></code> I’m looking to collaborate on novel Vision/ Deep Learning ideas
+-  I’m looking to collaborate on novel Vision/ Deep Learning ideas
 - Know where I can improve and learn all the cool new stuffs in AI
 - Have you reach me at sowmya.iyer2020@gmail.com
 
