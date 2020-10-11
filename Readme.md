@@ -1,7 +1,7 @@
 ## Hello 👋🏽, This is Sowmya Iyer!
 
 Connect with me: 
-[<img src="https://media.giphy.com/media/wK2MKS75R8sVrSuA5k/giphy.gif" height="50em" align="center" alt="Follow me on LinkedIn" title="Connect with me on LinkedIn"/>](https://linkedin.com/in/sowmya-j-iyer)
+[<img src="https://media.giphy.com/media/cYk0Lr1kOI8vzLLRKa/giphy.gif" height="50em" align="center" alt="Follow me on LinkedIn" title="Connect with me on LinkedIn"/>](https://linkedin.com/in/sowmya-j-iyer)
 [<img src="https://media.giphy.com/media/l41YmiCZ8HXvVl5M4/giphy.gif" height="60em" align="center" alt="Follow me on Instagram" title="Connect with me on Instagram"/>](https://www.instagram.com/sowmya._.iyer)
 
 **I speak in**
