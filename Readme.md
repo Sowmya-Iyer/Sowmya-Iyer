@@ -26,8 +26,8 @@ Connect with me:
 - S𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bachelor's in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Batch:2021)
 
 ## :book: I'd Love to:
--  I’m looking to collaborate on novel Vision/ Deep Learning ideas
-- Know where I can improve and learn all the cool new stuffs in AI
+- collaborate on novel Vision/ Deep Learning ideas
+- Know where I can improve and learn all the cool new breakthroughs in the field
 
 ## ⬆ 𝚆𝚑𝚊𝚝 am I 𝚞𝚙 𝚝𝚘?
 - I don't know either...
