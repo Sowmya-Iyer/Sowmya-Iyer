@@ -1,4 +1,4 @@
-## Hello 👋🏽, This is Sowmya Iyer!
+## Hey, this is Sowmya Jayaram Iyer!
 
 Connect with me: 
 [<img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" height="40em" align="center" alt="Follow me on LinkedIn" title="Connect with me on LinkedIn"/>](https://linkedin.com/in/sowmya-j-iyer)
@@ -18,16 +18,10 @@ Connect with me:
   <img align="right" alt="GIF" img height="300" src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif">
 
 
-- Currently studying Variational Autoencoders
+- Currently working with multi-modal transformers 
 - Pursuing Masters in Computer Science at Purdue 
 
-## :book: I'd Love to:
-- Collaborate on novel Vision/ Deep Learning ideas
-- Hear about new ML breakthroughs
-- Identify limitations in latest models and find ways to improve in those areas 
-
-## ⬆ 𝚆𝚑𝚊𝚝 am I 𝚞𝚙 𝚝𝚘?
-- 🎯 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 incorporating Lossy Compression in Autoencoders. 
+## ⬆ My works:
 - 📝 My [Resume](https://drive.google.com/file/d/1h0HWVSUd3fIGMPS9BkEMJGUrZdEfiXH6/view?usp=sharing)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sowmya-Iyer.visitor-badge)
