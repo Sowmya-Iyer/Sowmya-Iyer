@@ -22,6 +22,6 @@ Connect with me:
 - Pursuing Masters in Computer Science at Purdue 
 
 ## ⬆ My works:
-- 📝 My [Resume](https://drive.google.com/file/d/1h0HWVSUd3fIGMPS9BkEMJGUrZdEfiXH6/view?usp=sharing)
+- 📝 My [Resume](https://drive.google.com/file/d/1AOsuiy7dARq1JJuTl2GMduVEKuAmR-3B/view?usp=sharing)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sowmya-Iyer.visitor-badge)
