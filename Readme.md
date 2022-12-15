@@ -15,7 +15,7 @@ Connect with me:
 <code><img height="60" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" title="VisualStudio"></code>
 
 ## :book: WHO AM I?
-  <img align="right" alt="GIF" img height="300" src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif">
+<!--   <img align="right" alt="GIF" img height="300" src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif"> -->
 
 
 - Currently working with multi-modal transformers 
